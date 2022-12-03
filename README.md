@@ -8,6 +8,7 @@ Multiple choices are made with what is between brackets for example,
   [2] Deleter
   
   [3] Change color 
+  
   Choice -> "your choice"
   
 if I want to choose to change the color I will simply write "3" and press enter
