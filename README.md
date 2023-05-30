@@ -1,5 +1,7 @@
 # ToolX
 
+Discord Server : https://discord.gg/dxT9qCtsaU
+
 ToolX is simple and easy to understand but in case this is not the case for you ... :
 Multiple choices are made with what is between brackets for example,
 
