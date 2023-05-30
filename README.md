@@ -1,7 +1,7 @@
 # ToolX
-![image](https://github.com/miokpyX/ToolX/assets/108710641/4ea572b8-3fed-495c-a434-0e80aa2124af)
 
 Discord Server : https://discord.gg/dxT9qCtsaU
+![image](https://github.com/miokpyX/ToolX/assets/108710641/387609f4-7f28-4ded-832a-394ed0db8659)
 
 ToolX is simple and easy to understand but in case this is not the case for you ... :
 Multiple choices are made with what is between brackets for example,
